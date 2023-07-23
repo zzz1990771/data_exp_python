@@ -1,0 +1,16 @@
+# Dependencies
+#gems:                [jekyll-paginate]
+#paginate: 5
+#paginate_path: "page:num"
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+ 
+# Setup
+title:               'BANA7025 Data Wrangling' 
+description:         'Tianhai Zu'
+baseurl:             '/data_wrangling'
+
+
+theme: jekyll-theme-cayman
