@@ -56,37 +56,37 @@ All required classroom material will be provided in class or online. Any recomme
 |:-------------:|--------------|
 | **1**         | **Introduction** &nbsp;&nbsp; [Link](week-1)  |
 |               | Intro to data exploration, Python, and course outline  |
-| **2**         | **Basic Python** &nbsp;&nbsp; [Link](week-1)  |
+| **2**         | **Basic Python** &nbsp;&nbsp; [Link]()  |
 |               | Basic Python |
-| **3**(larbor day)| **Reproducible workflow** &nbsp;&nbsp; [Link](week-2)  |
+| **3**(larbor day)| **Reproducible workflow** &nbsp;&nbsp; [Link]()  |
 |               | Managing your workflow and reproducibility  
-| **4**         | **Importing Data** &nbsp;&nbsp; [Link](week-2)  |
+| **4**         | **Importing Data** &nbsp;&nbsp; [Link]()  |
 |               | Importing data and understanding the basics of it |
-| **5**         | **Tidy/Clean Data** &nbsp;&nbsp; [Link](week-3)  |
+| **5**         | **Tidy/Clean Data** &nbsp;&nbsp; [Link]()  |
 |               | Tidying & preparing data for analysis |
-| **6**         | **Data Manipulation** &nbsp;&nbsp; [Link](week-3)  |
+| **6**         | **Data Manipulation** &nbsp;&nbsp; [Link]()  |
 |               | Data manipulation
-| **7**         | **Relational Data and SQL** &nbsp;&nbsp; [Link](week-4) |
+| **7**         | **Relational Data and SQL** &nbsp;&nbsp; [Link]() |
 |               | Relational data |
 |               | SQL database|
-| **8**         | **Pandas** &nbsp;&nbsp; [Link](week-4) |
+| **8**         | **Pandas** &nbsp;&nbsp; [Link]() |
 |               | Introduction to Pandas and related packages |
 |               | Data Structures in Pandas |
-| **9**         | **Pandas** &nbsp;&nbsp; [Link](week-4) |
+| **9**         | **Pandas** &nbsp;&nbsp; [Link]() |
 |               | Leveraging the Pandas to conduct data exploration |
-| **10**        | **Data Visualizations** &nbsp;&nbsp; [Link](week-5)  |
+| **10**        | **Data Visualizations** &nbsp;&nbsp; [Link]()  |
 |               | Data visualization basics|
-| **11**        | **Data Visualizations** &nbsp;&nbsp; [Link](week-5)  |
+| **11**        | **Data Visualizations** &nbsp;&nbsp; [Link]()  |
 |               | Data visualization advanced|
-| **12**        | **Creating Online Dashboard** &nbsp;&nbsp; [Link](week-6) |
+| **12**        | **Creating Online Dashboard** &nbsp;&nbsp; [Link]() |
 |               | Create dashboards that you can share with your colleague or client|
-| **13**        | **Efficient Coding in Python** &nbsp;&nbsp; [Link](week-6) |
+| **13**        | **Efficient Coding in Python** &nbsp;&nbsp; [Link]() |
 |               | Control statements & iteration  |
 |               | Writing functions |
-| **14**        | **Explore Data with Basic Statistical Models** &nbsp;&nbsp; [Link](week-7) |
+| **14**        | **Explore Data with Basic Statistical Models** &nbsp;&nbsp; [Link]() |
 |               | Correlation & simple regression|
 |               | Multiple regression|
-| **15**        | **Explore Data with Basic Machine Learning** &nbsp;&nbsp; [Link](week-7) |
+| **15**        | **Explore Data with Basic Machine Learning** &nbsp;&nbsp; [Link]() |
 |               | Basic machine learning approaches|
 | **16**        | **Final Exams** |
 
@@ -116,9 +116,9 @@ Final grades will be distributed according to the following cutoffs:
 
 ## Software
 
-We will use this software during the course. Plan on bringing a computer to each class meeting.
+We will use JupyterLab from Anaconda during the course. Plan on bringing a computer to each class meeting.
 
-* [Python](https://www.python.org/) and [xxx]https://www.rstudio.com/) will be used to perform all programming activities, assignments, and the final project.  You can find details on how to download these [here]().
+* [Python](https://www.python.org/) and [Anaconda](https://www.anaconda.com/) will be used to perform all programming activities, assignments, and the final project.  
 
 
 
