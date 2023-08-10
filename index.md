@@ -129,7 +129,7 @@ We will use JupyterLab from Anaconda during the course. Plan on bringing a compu
 （Add school policy here）For example: All cases of academic misconduct (e.g., cheating, plagiarism, falsification) will be formally reported by faculty. Students will be afforded due process for allegations, as outlined in the policy. If a student is found guilty of academic misconduct in two instances, the student may be dismissed from the Alvarez College of Business. 
 
 
-<u>Disability</u>: Students with disabilities who need academic accommodations or other specialized services while attending the University of Cincinnati will receive reasonable accommodations to meet their individual needs as well as advocacy assistance on disability-related issues. Students requiring special accommodation must register with the [Disability Services Office](http://www.uc.edu/aess/disability.html).
+<u>Disability</u>: Students with disabilities who need academic accommodations or other specialized services while attending the University of Cincinnati will receive reasonable accommodations to meet their individual needs as well as advocacy assistance on disability-related issues. Students requiring special accommodation must register with the [Disability Services Office]().
 
 <u>Attendance</u>: Your attendance is expected at every meeting. If you must be absent, I request that you notify me in advance of the class meeting.
 
